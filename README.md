@@ -29,7 +29,7 @@ To obtain your APILayer API key, follow these steps:
 3. In the **Free Plan** box, click **Subscribe**.
 4. Create an account, or Sign in if you have one.
 
-You'll see the API key at the top of the page. There is a **Copy API Key** button that you can click to copy the API key.
+In the [FixerAPI](https://apilayer.com/marketplace/fixer-api) dashboard, you'll see the API key at the top of the page. There is a **Copy API Key** button that you can click to copy the API key.
 
 ## Setting up environment variables
 
