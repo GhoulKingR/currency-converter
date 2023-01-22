@@ -1,4 +1,4 @@
-# Currency-Calculator
+# Currency-Converter
 
 This project is a currency converter made with JavaScript. The project allows you check and convert currencies using the real-time exchange rates.
 
